@@ -1,0 +1,95 @@
+﻿PS Pets
+ΔΞΛΠ¤Шш―‗†‡•…‼‾Ω↑↓∞∟≈≠≡⌂┌┐└┘├┤┬┴┼═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬▀▄█▌▐░▒▓■▬▲►▼◄◊○◘◙☺☻☼♀♂♠♣♥♦♪♫
+
+E		Mountain/Unwalkable Earth
+#		Wall
+G		Grass with Random Monsters
+L		Lawn (cutted) safe to walk
+S		Sand
+B		Building
+D		Door
+J ‗ 	Jumpable (down)
+W ≈		Water
+
+A
+C
+F
+H
+I
+K
+M
+N
+O
+P
+Q
+R
+T
+U
+V
+X
+Y
+Z
+> 		Stairs down
+<		Stairs up
+
+ITEMS
+
+MOVEABLES
+@		Player
+
+http://www.nethack.org/v340/Guidebook.html
+- and |		The walls of a room, or an open door. Or a grave (|). 
+.			The floor of a room, ice, or a doorless doorway.
+#		    A corridor, or iron bars, or a tree, or possibly a kitchen sink (if your dungeon has sinks), or a drawbridge. 
+>    		Stairs down: a way to the next level. 
+<    		Stairs up: a way to the previous level. 
++    		A closed door, or a spellbook containing a spell you may be able to learn. 
+@    		Your character or a human. 
+$    		A pile of gold. 
+^    		A trap (once you have detected it). 
+)    		A weapon. 
+[    		A suit or piece of armor. 
+%    		Something edible (not necessarily healthy). 
+?    		A scroll. 
+/    		A wand. 
+=    		A ring. 
+!    		A potion. 
+(    		A useful item (pick-axe, key, lamp...). 
+"    		An amulet or a spider web. 
+*    		A gem or rock (possibly valuable, possibly worthless). 
+`    		A boulder or statue. 
+0    		An iron ball. 
+_    		An altar, or an iron chain. 
+{    		A fountain. 
+}    		A pool of water or moat or a pool of lava. 
+\			An opulent throne. 
+a-zA-Z 		and other symbols   Letters and certain other symbols represent the various inhabitants of the Mazes of Menace. Watch out, they can be nasty and vicious. Sometimes, however, they can be helpful. 
+I    		This marks the last known location of an invisible or otherwise unseen monster. Note that the monster could have moved. The 'F' and 'm' commands may be useful here. 
+
+http://nethack.wikia.com/wiki/IBMgraphics
+Usage				Appearance	ASCII
+Vertical wall		║	|
+Horizontal wall		═	-
+Top left corner		╔	-
+Top right corner	╗	-
+Bottom left corner	╚	-
+Bottom right corner	╝	-
+Cross wall, doors	╬	- or +
+T-up wall			╩	-
+T-down wall			╦	-
+T-left wall			╣	|
+T-right wall		╠	|
+Human, elf			☺	@
+Trap, web			♦	^ or "
+Food				♣	:
+Amulet				♀	,
+Scroll				♫	?
+Gold, gems			☼	*
+Weapon				↑	)
+Armor				[	]
+Potion				¡	!
+Dark corridor		▒	#
+Lit corridor		▓	#
+Wand				τ	/
+Stairs				≡	%
+Room				·	. 
